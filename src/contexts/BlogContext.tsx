@@ -79,8 +79,8 @@ interface IBlogProviderProps {
   children: ReactNode
 }
 
-const GITHUB_USERNAME = 'gw-rodrigues'
-const GITHUB_REPOSITORY = 'ignite-react-2022-github-blog'
+const GITHUB_USERNAME = 'guivicentep'
+const GITHUB_REPOSITORY = 'ignite-03-desafio'
 
 export const BlogContext = createContext({} as IBlogContextTypes)
 
